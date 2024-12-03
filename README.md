@@ -1,1 +1,1 @@
-# stock-market-prediction-using-reddit-sentiment-analysis
+# Stock Market Prediction Using Reddit Sentiment Analysis
