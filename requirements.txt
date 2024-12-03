@@ -1,0 +1,17 @@
+numpy==2.13.0
+pandas
+matplotlib
+seaborn
+scikit-learn
+nltk
+transformers
+requests
+jupyter
+scikeras
+tensorflow
+datetime
+praw
+demoji
+torch
+math
+string
